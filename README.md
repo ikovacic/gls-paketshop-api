@@ -6,5 +6,7 @@ JSON je dostupan na adresi https://api.applause.hr/gls/data.json, a ažurira se 
 
 ## Roadmap
 
+U nekoj od sljedećih verzija stići će podrška za:
+
 * Search Parameters
 * Limit & offset
