@@ -1,12 +1,12 @@
 # GLS PaketShop API
 
-API endpoint koji u JSON formatu vraća sve GLS PaketShop lokacije na kojima je moguće preuzeti pakete (https://www.paket.hr/paketshop)
+API endpoint koji u JSON formatu vraća sve GLS PaketShop lokacije na kojima je moguće preuzeti pakete (https://www.paket.hr/paketshop).
 
 Podaci se ažuriraju svakih 15 minuta.
 
 ## Endpoint
 
-Endpoint je dostupna na adresi https://api.applause.hr/gls/get-locations i prihvaća GET requestove.
+Endpoint je dostupan na adresi https://api.applause.hr/gls/get-locations i prihvaća GET requestove.
 
 ## Parametri
 
